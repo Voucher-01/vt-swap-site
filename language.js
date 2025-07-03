@@ -1,0 +1,1 @@
+// language.js: รองรับ EN/TH
